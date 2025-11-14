@@ -1,0 +1,5 @@
+{
+  "name": "Focus Timer",
+  "description": "A minimalist and visually appealing countdown timer with preset durations and an alarm sound to help you focus.",
+  "requestFramePermissions": []
+}
